@@ -4,9 +4,7 @@
 
 > A React-based interface for setting up arbitrary chess positions and visualizing the shortest valid sequence of moves between them. 
 
-This repository contains the frontend client for the Chess Pathfinder project. It allows users to intuitively construct a starting and 
-target board state via drag-and-drop, validates the positions, and communicates with a custom C++ engine to compute the optimal path. 
-The results are returned and visualized with step-by-step playback.
+This repository contains the frontend client for the Chess Pathfinder project. It allows users to intuitively construct a starting and target board state via drag-and-drop, validates the positions, and communicates with a custom C++ engine to compute the optimal path. The results are returned and visualized with step-by-step playback.
 
 ## Key Features
 
